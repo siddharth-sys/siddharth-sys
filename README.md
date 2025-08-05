@@ -1,4 +1,4 @@
-
+![logo](https://github.com/siddharth-sys/siddharth-sys/blob/main/Siddharth_banner.png)
 <h1 align="center">Hi 👋, I'm Siddharth Sesodia</h1>
 <h3 align="center">A Data Science Enthusiast | Python & EDA Developer | Machine Learning Learner</h3>
 
