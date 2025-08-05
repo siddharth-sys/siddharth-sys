@@ -2,7 +2,6 @@
 <h3 align="center">A Data Science Enthusiast | Python & EDA Developer | Machine Learning Learner</h3>
 
 ---
-<img align='right' alt='coding' width=200 src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpn0tEIzsZp7K6KfDG_Aj0X_1vD4R_ZI2ZzQ&s'>
 ### 👨‍💻 About Me
 - 💡 I'm deeply passionate about solving problems with **Data Science**, **Exploratory Data Analysis**, and **Machine Learning**.
 - 🧠 Currently learning: **Python, SQL, Scikit-learn, Data Cleaning, Visualization**
