@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Projects
 
-#### 📊 [Olympic Dataset EDA](https://github.com/siddharth-sys/Olympic-EDA)
+#### 📊 [Olympic Games Data Analysis](https://github.com/siddharth-sys/Olympic-EDA)
 - Tech Stack: Python, Pandas, Matplotlib, Seaborn
 - Analyzed medal trends, gender participation, and sport dominance across years.
 - Cleaned and visualized data with clear insights into athlete demographics.
@@ -24,7 +24,7 @@
 - Detailed EDA uncovering survival trends based on demographics.
 - Used visualizations to find patterns like higher survival among females and 1st class passengers.
 
-#### 📚 [Book Web Scraping + MySQL](https://github.com/siddharth-sys/Book-Scraper-MySQL)
+#### 📚 [Comprehensive Book Data Analysis](https://github.com/siddharth-sys/Book-Scraper-MySQL)
 - Scraped 1000+ book data using `BeautifulSoup`
 - Performed EDA and stored insights in MySQL
 - Solved key problems like top 5 expensive books, stock analysis, and rating counts.
